@@ -1,0 +1,3 @@
+[submodule "src/3rd/json"]
+	path = src/3rd/json
+	url = https://github.com/nlohmann/json.git
